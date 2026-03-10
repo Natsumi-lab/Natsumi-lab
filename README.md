@@ -1,12 +1,20 @@
 ## 🚀 About Me 
 異業種からのキャリアチェンジに挑戦中の、フロントエンドエンジニア志望です。  
 
-Focus: React / Next.js を中心としたモダンなWeb開発  
-Experience: Python (Django) によるバックエンド開発（実用アプリの制作実績あり）  
-Goal: 2026年にエンジニアとしてキャリアをスタートさせること  
-Current Task: ポートフォリオのクオリティ向上と新機能の実装  
+- Focus: React / Next.js を中心としたモダンなWeb開発  
 
-「ユーザーの課題を技術で解決する」楽しさに魅了され、スクール卒業後も独学でスキルの幅を広げています。  
+- Experience: Python (Django) によるバックエンド開発（実用アプリの制作実績あり）  
+
+- Goal: 2026年にエンジニアとしてキャリアをスタートさせること  
+
+- Current Task: ポートフォリオのクオリティ向上と新機能の実装  
+
+- AI-Driven Development: 開発効率の向上と品質担保のため、最近はAIエージェントを活用した開発手法に注力しており、  
+Claude Code / Cursor / MCP / Claude Code Skillsなどを組み合わせた最適なワークフローを模索しています。   
+単にツールに頼るのではなく、その仕組みを理解するための「基礎学習」を大切にしており、日々着実なスキルアップを重ねています。
+✍️ 学習のブログ: https://github.com/Natsumi-lab/study-log
+
+---
 
 ## 🛠 Skills & Learning In Progress
 
