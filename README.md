@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-異業種からエンジニアへのキャリアチェンジを目指して学習・開発を続けています。  
+好奇心から始めたプログラミング。スクールにも通って本格的に習得しました。
 現在は **React / Next.js / TypeScript** を中心としたフロントエンド開発を軸に、  
 バックエンド（Python / Django）も含めたWebアプリケーション開発に取り組んでいます。
 
@@ -58,8 +58,3 @@ https://github.com/Natsumi-lab/cosme_expiry
 https://github.com/Natsumi-lab/study-log
 
 ---
-
-## 🎯 目標
-
-2026年にエンジニアとしてキャリアをスタートし、  
-ユーザーに価値を届けられるエンジニアになることを目指しています。
